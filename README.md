@@ -34,17 +34,12 @@ Naïve Bayes	Accuracy of Naive Bayes model for men: 82.35294117647058
 Accuracy of Naive Bayes model for women: 91.30434782608695
 Extreme Gradient Boost	95.1219512195122
 K-Neighbours Classifier	87.8048780487805
-
-Pipeline: 
  
+Pipeline 
+![image](https://github.com/RacHiT101/MLOps-Heart_Disesase_Pred/assets/102234645/b3f172bd-16c0-410d-b0c3-8a9dc6532023)
 
 User Interface: 
 We have used Streamlit for making the user interface, as it is easy and scalable Python UI Framework. 
- 
- 
-
-Deployment: 
- 
 
 Github Repo: https://github.com/RacHiT101/MLOps-Heart_Disesase_Pred/tree/main
 
