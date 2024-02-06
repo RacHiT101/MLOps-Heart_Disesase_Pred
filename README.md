@@ -1,12 +1,15 @@
-MLops Pipeline for Bias Detection and Mitigation in Heart Disease Diagnosis Models
+**MLops Pipeline for Bias Detection and Mitigation in Heart Disease Diagnosis Models**
+
 Team name: Git Commit 
 MLOPS PROBLEM STATEMENT: 
-Our goal is to enhance fairness, reliability, and equitable predictions across diverse demographic groups. We’ll emphasize the integration of ensemble techniques to improve model accuracy.
+**Our goal is to enhance fairness, reliability, and equitable predictions across diverse demographic groups. We’ll emphasize the integration of ensemble techniques to improve model accuracy.**
 
 Approach: 
 Data Preprocessing and Exploration:
+
 •	Normalize Data: Pre-processed the dataset by handling missing values, outliers, and class imbalances.
 •	Stratified Sampling: Ensured diverse representation by stratifying data based on demographic groups.
+
 Bias Detection:
 Gender analysis is an important aspect of bias detection and mitigation in machine learning. Helped us understand how our Heart Disease diagnosis models perform across different gender groups and identify any potential disparities or discrimination.
 Accuracy of Naive Bayes model for men: 82.35294117647058 
